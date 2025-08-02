@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-kuntal&label=Profile%20views&color=0e75b6&style=flat" alt="ram-kuntal" /> </p>
 
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 - 🌱 I’m currently learning **Advanced backend architecture patterns and exploring cloud-native solutions**
 
 - 👯 I’m looking to collaborate on **Backend projects involving Java, Spring Boot, and PostgreSQL**
