@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-kuntal&label=Profile%20views&color=0e75b6&style=flat" alt="ram-kuntal" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="coding" width="290" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
 - 🌱 I’m currently learning **Advanced backend architecture patterns and exploring cloud-native solutions**
