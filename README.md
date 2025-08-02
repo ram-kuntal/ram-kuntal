@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ram Kuntal</h1>
-<h3 align="center">Backend Developer | Java, Spring Boot, PostgreSQL</h3>
+<h3 align="center">A passionate Backend Developer from India, specializing in Java & Spring Boot REST APIs with 1+ year of hands-on experience in scalable system design and database optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-kuntal&label=Profile%20views&color=0e75b6&style=flat" alt="ram-kuntal" /> </p>
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 
 - 🌱 I’m currently learning **Advanced backend architecture patterns and exploring cloud-native solutions**
 
