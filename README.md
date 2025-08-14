@@ -1,8 +1,6 @@
 <h1 align="center">Hi Developers👋</h1>
 <h3 align="center">I'm a passionate Java Backend Developer with expertise in Java & Spring Boot REST APIs with 1+ year of hands-on experience in scalable system design and database optimization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-kuntal&label=Profile%20views&color=0e75b6&style=flat" alt="ram-kuntal" /> </p>
-
 <img align="right" alt="coding" width="290" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
